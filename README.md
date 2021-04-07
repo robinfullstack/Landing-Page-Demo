@@ -9,3 +9,5 @@ This is a demonstration of one single page it which you will can use:
 5. Responsive Design.
 
 Implemented with: HTML, CSS, Javascript, JQuery, PHP and Mysql.
+
+![Screenshot Wiki Git](https://github.com/robinfullstack/wiki/blob/bddfedcb1337a43b4b6dfe9f4bf9eec837d3d2d7/public/img/Screenshot-WikiGit-Setup-Company.png)
