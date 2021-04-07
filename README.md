@@ -8,4 +8,4 @@ This is a demonstration of one single page it which you will can use:
 4. Export your information to Excel.
 5. Responsive Design.
 
-Implemented with: HTML, CSS, Javascript, JQuery, PHP and Mysql
+Implemented with: HTML, CSS, Javascript, JQuery, PHP and Mysql.
