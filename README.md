@@ -10,4 +10,6 @@ This is a demonstration of one single page it which you will can use:
 
 Implemented with: HTML, CSS, Javascript, JQuery, PHP and Mysql.
 
+I save hope that you like as well as to me!
+
 ![Screenshot Wiki Git](https://github.com/robinfullstack/Landing-Page-Demo/blob/a520e4d24bc3f2dde43ad77d963f891314aae69b/images/demo/landing-page.jpg)
