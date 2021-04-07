@@ -10,4 +10,4 @@ This is a demonstration of one single page it which you will can use:
 
 Implemented with: HTML, CSS, Javascript, JQuery, PHP and Mysql.
 
-![Screenshot Wiki Git](https://github.com/robinfullstack/wiki/blob/bddfedcb1337a43b4b6dfe9f4bf9eec837d3d2d7/public/img/Screenshot-WikiGit-Setup-Company.png)
+![Screenshot Wiki Git](https://github.com/robinfullstack/Landing-Page-Demo/blob/a520e4d24bc3f2dde43ad77d963f891314aae69b/images/demo/landing-page.jpg)
